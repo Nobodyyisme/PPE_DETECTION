@@ -1,0 +1,32 @@
+**/.ipynb_checkpoints/
+ppe_env
+# Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# Environment
+ppe_env/
+*.env
+*.venv
+.venv/
+env/
+venv/
+
+# Dataset generated files (optional)
+dataset/README.*
+dataset/.ipynb_checkpoints/
+
+# Training outputs
+runs/
+*.pt
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Image logs or temp test files
+test*.jpg
+predictions_output.jpg
+
+# Notebook outputs (optional if outputs are not needed)
+*.ipynb
