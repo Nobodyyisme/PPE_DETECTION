@@ -108,4 +108,4 @@ Check `runs/detect/` for predictions and training logs.
 
 ## 📬 Contact
 
-For questions or contributions, please open an issue or reach out at [your.email@example.com].
+For questions or contributions, please open an issue or reach out me.
